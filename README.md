@@ -12,7 +12,8 @@ git submodule init ... and subsequently, git submodule update
 We're working on making this happen as smoothly as possible, but it may still be necessary to install a few extra bits. We recommend using Anaconda Python 3.x; for those stubborn amongst us who insist to run on their system Python, you an probably just replace "conda" installations with "pip":
 
 on a fresh linux install... stuff we have to do besides just clone this:
-pip install geopy
-conda install basemap
-pip install geographiclib
-conda install -c ioos rtree
+
+- pip install geopy
+- conda install basemap
+- pip install geographiclib
+- conda install -c ioos rtree
