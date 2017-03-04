@@ -1,9 +1,6 @@
 [submodule "globalETAS"]
 	path = globalETAS
-	url = https://github.com/markyoder/globalETAS.git
+	url = https://github.com/markyoder/globalETAS
 [submodule "yodiipy"]
 	path = yodiipy
-	url = https://github.com/markyoder/yodiipy.git
-[submodule "contours2kml"]
-	path = contours2kml
-	url = https://github.com/markyoder/contours2kml.git
+	url = https://github.com/markyoder/yodiipy
