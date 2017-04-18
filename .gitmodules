@@ -1,0 +1,6 @@
+[submodule "globalETAS"]
+	path = globalETAS
+	url = https://github.com/markyoder/globalETAS
+[submodule "yodiipy"]
+	path = yodiipy
+	url = https://github.com/markyoder/yodiipy
